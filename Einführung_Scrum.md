@@ -13,6 +13,7 @@ Eine Denkweise, die sich auf Veränderungen einlässt, um schnell Ergebnisse zu 
 
 Ken Schwaber und Jeff Sutherland entwickelten zusammen das Konzept des Scrums. Dieses basiert auf die Empirie und Lean Thinking.  
 
+### Entwicklung von Scrum 
 Mit der Empirie wird gemeint, dass alle Entscheidungen basierend auf Beobachtung, Erfahrung und Fakten entschieden werden, _nicht nach Anahmen_. Wobei Lean Thinking darauf besteht, dass Verschwendung vermieden wird und nun auf das Wesentliche fokusiert wird.  
 Mit dieser Mehtode sollen Produkten schneller und flexibler entwickelt werden. Besonders sollen Projektrisiken frühzeitig erkannt und behoben werden, indem ein Fokus aus die Professionalisierung der Zusammenarebit und die Kultur des Lernens gelegt wird.  
 
