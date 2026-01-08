@@ -1,5 +1,4 @@
-# Scrum - Projektmanagement 
-## Einführung 
+# Scrum - Projektmanagement  
 Im Rahmen unseren Gruppenprojekts im Modul Data Mining wird die Entwicklung und Umsetzung unseren Konzepts mithilfe von Scrum organisiert. (Erklärung unseren Konzepts) 
 ### Das Konzept und die Prinzipien von Scrum 
 Scrum ist ein agiles Projektmanagement-Framework. Damit wird gemeint, dass bei der Umsetzung von Scrum keine Langzeit Planung vorliegt. Es wird nämlich in kürzeren und strukturierten Zyklen gearbeitet. Die vier agilen Werten sind hierbei besonders von Belang.
@@ -22,7 +21,10 @@ Mit dieser Mehtode sollen Produkten schneller und flexibler entwickelt werden. B
 _„Scrum wird verwendet, um Software, Hardware, Embedded Software, Netzwerke von interagierenden
 Funktionen und autonome Fahrzeuge zu entwickeln. Scrum wird aber auch in Schulen, Regierungs- und
 Marketingprojekten genutzt, zur Verwaltung von Organisationen und der Entwicklung von fast allem,
-was wir in unserem täglichen Leben als Einzelpersonen und als Gesellschaften verwenden.“ (11/2017)_
+was wir in unserem täglichen Leben als Einzelpersonen und als Gesellschaften verwenden.“ (11/2017)_  
+
+
+
 
 
  
