@@ -3,13 +3,4 @@ Im Rahmen unseren Gruppenprojekts im Modul Data Mining wird die Entwicklung und 
 
 [Einführung in Scrum](Einführung_Scrum.md)  
 [Umsetzung von Scrum](Umsetzung_Scrum.md)  
-[Quellen] 
-
-
-
-
-
-
-
-
-
+[Quellen](Quellen.md)
