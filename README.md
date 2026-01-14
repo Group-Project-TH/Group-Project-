@@ -8,7 +8,7 @@ Zur Koordination der Zusammenarbeit haben wir ein Google-Dokument erstellt, das 
 * Development Team: Sajjad Rajabi, Moritz Laufer, Fabian Lersch, Tristan Yi
 * Scrum Master: Laura Hae Mi Kang 
 
-### Scrum 
-[Einführung in Scrum](Einführung_Scrum.md)  
-[Umsetzung von Scrum](Umsetzung_Scrum.md)  
-[Quellen](Quellen.md)
+### Scrum - Gliederung 
+1. [Einführung in Scrum](Einführung_Scrum.md)  
+2. [Umsetzung von Scrum](Umsetzung_Scrum.md)  
+3. [Quellen](Quellen.md)
