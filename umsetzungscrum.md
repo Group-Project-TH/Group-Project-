@@ -1,6 +1,6 @@
 # Die Umsetzung von Scrum in unserem Gruppeprojekt 
 ## Die drei Säulen 
-In der Einführung zu Scrum wurde darauf hingewiesen, dass eines der Grundprinzipien der Empirismus ist. Um sicherzustellen, dass dieses Prinzip tatsächlich umgesetzt wird, wurde ein Modell geschaffen. Das Drei-Säulen-Modell besteht aus Transparenz, Überprüfung und Anpassung. Wenn alle diese Säulen korrekt eingesetzt werden, fördert das Modell die Zusammenarbeit, die Rechenschaftspflicht und die Reaktionsfähigkeit. Außerdem wird die Teamleistung verbessert, wodurch sich die Qualität des Projektergebnisses steigert.
+In der Einführung zu Scrum wurde darauf hingewiesen, dass eines der Grundprinzipien **der Empirismus** ist. Um sicherzustellen, dass dieses Prinzip tatsächlich umgesetzt wird, wurde ein Modell geschaffen. Das Drei-Säulen-Modell besteht aus Transparenz, Überprüfung und Anpassung. Wenn alle diese Säulen korrekt eingesetzt werden, fördert das Modell die Zusammenarbeit, die Rechenschaftspflicht und die Reaktionsfähigkeit. Außerdem wird die Teamleistung verbessert, wodurch sich die Qualität des Projektergebnisses steigert.
 
 ![Schaubild_2](https://agilescrumgroup.de/wp-content/uploads/2022/04/ASG-DE-Empirisme-768x431.png)
 
