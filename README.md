@@ -9,6 +9,6 @@ Zur Koordination der Zusammenarbeit haben wir ein Google-Dokument erstellt, das 
 * Scrum Master: Laura Hae Mi Kang 
 
 ### Scrum - Gliederung 
-1. [Einführung in Scrum](Einführung_Scrum.md)  
+1. [Einführung in Scrum](einführungscrum.md)  
 2. [Umsetzung von Scrum](Umsetzung_Scrum.md)  
 3. [Quellen](Quellen.md)
