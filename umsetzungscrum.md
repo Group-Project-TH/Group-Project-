@@ -29,3 +29,6 @@ Die Anpassungen wurden durchgeführt, indem wir regelmäßig den aktuellen Stand
 Auf Basis von Feedback aus der Gruppe sowie aus gemeinsamen Besprechungen passten wir Aufgaben, Prioritäten und Deadlines entsprechend an. Wenn sich herausstellte, dass ein Ansatz nicht zielführend war oder zusätzlicher Aufwand erforderlich wurde, verteilten wir die Aufgaben neu oder änderten unsere Vorgehensweise. Durch diese kontinuierlichen Anpassungen konnten wir flexibel bleiben und sicherstellen, dass das Projekt effizient voranschreitet.  
 
 Ein Beispiel hierfür war die Themenänderung. Wir stellten frühzeitig fest, dass das eigentliche Thema für unsere Gruppe unpassend war und entschieden uns daher für eine Umorientierung.
+
+## Weitere implementierten Ansätze 
+
