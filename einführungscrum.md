@@ -23,8 +23,7 @@ Marketingprojekten genutzt, zur Verwaltung von Organisationen und der Entwicklun
 was wir in unserem täglichen Leben als Einzelpersonen und als Gesellschaften verwenden.“ (11/2017)_  
 
 ## Scrumbut
-"Scrumbut" weisst darauf hin, dass Scrum zwar genutzt aber modifiziert wurde ("We use scrum, but..."). In der Regel ist Scrum ein klar definiertes Rahmenwerk, in dem Rollen oder Ereignisse festgelegt wurden. Allerdings kann es in der Praxis dazu kommen, dass Änderungen oder Kompromisse eingegangen werden müssen. Obwohl diese Änderungen nicht unbedingt als Fehlentscheidung angesehen sollte, sollten Anpassungen bewusst und begründet ausgeführt werden.  
-Empirische Erfahrungswerte zeigen, dass circa 90% der Projektteams in einer Scrumbut-Variante Scrum anwenden. 
+"Scrumbut" weisst darauf hin, dass Scrum zwar genutzt aber modifiziert wurde ("We use scrum, but..."). In der Regel ist Scrum ein klar definiertes Rahmenwerk, in dem Rollen oder Ereignisse festgelegt wurden. Allerdings kann es in der Praxis dazu kommen, dass Änderungen oder Kompromisse eingegangen werden müssen. Obwohl diese Änderungen nicht unbedingt als Fehlentscheidung angesehen sollte, sollten Anpassungen bewusst und begründet ausgeführt werden. Empirische Erfahrungswerte zeigen, dass circa 90% der Projektteams in einer Scrumbut-Variante Scrum anwenden. 
 
 
 
