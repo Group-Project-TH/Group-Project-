@@ -7,6 +7,8 @@ Zur Koordination der Zusammenarbeit haben wir ein Google-Dokument erstellt, das 
 * Product Owner: Joann Kylee Kleinheyer
 * Development Team: Sajjad Rajabi, Moritz Laufer, Fabian Lersch, Tristan Yi
 * Scrum Master: Laura Hae Mi Kang 
+![TabelleRollenverteilung](https://agile-verwaltung.org/wp-content/uploads/2020/11/scrumrollen2-1.jpg)
+
 
 ### Scrum - Gliederung 
 1. [Einführung in Scrum](einführungscrum.md)  
