@@ -31,4 +31,12 @@ Auf Basis von Feedback aus der Gruppe sowie aus gemeinsamen Besprechungen passte
 Ein Beispiel hierfür war die Themenänderung. Wir stellten frühzeitig fest, dass das eigentliche Thema für unsere Gruppe unpassend war und entschieden uns daher für eine Umorientierung.
 
 ## Weitere implementierten Ansätze 
+### Scrumbut 
+Innerhalb unserer Projektgruppe waren die Verantwortlichkeiten klar definiert und nachvollziehbar verteilt. Einzelne Gruppenmitglieder übernahmen feste Aufgabenbereiche, beispielsweise in den Bereichen Dokumentation. Dadurch war jederzeit transparent, wer für welche Teilaufgaben verantwortlich war, was die Zusammenarbeit und Effizienz innerhalb des Teams unterstützte.
+Diese Rollen entsprachen jedoch nicht vollständig den im Scrum-Framework vorgesehenen Rollen des Product Owners, Scrum Masters und des Development Teams. Insbesondere gab es keine einzelne Rolle mit ausschließlicher Produktverantwortung. Stattdessen wurden Entscheidungen häufig gemeinsam getroffen und organisatorische Aufgaben innerhalb der Gruppe aufgeteilt.
+
+### Eigenverantwortliches Arbeiten
+Die Gruppenmitglieder arbeiteten weitgehend selbstorganisiert innerhalb ihrer Aufgabenbereiche. Entscheidungen wurden nicht hierarchisch getroffen, sondern gemeinsam abgestimmt, was die Eigenverantwortung und das Engagement innerhalb der Gruppe förderte.
+
+
 
