@@ -3,4 +3,5 @@ Im Folgenden eine Liste der Quellen, die ich zum Erstellen dieses Branches verwe
 1. https://agilescrumgroup.de/agile-werte/ 
 2. https://agilescrumgroup.de/scrum-saeule/
 3. https://www.atlassian.com/de/agile/project-management/3-pillars-scrum
-
+4. https://agile-verwaltung.org/2020/11/19/das-scrum-rollenmodell-drei-rollen-eine-verantwortung/ (Bild)
+5. 
