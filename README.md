@@ -46,3 +46,18 @@ Statt Bauchgefühl verwenden wir eine **datenbasierte Analyse**:
 - Analyse der meistgespielten Karten und erfolgreichsten Decks  
 - Vergleich der Performance von Top-Spieler-Decks und Casual-Spielern  
 - Visualisierungen und Präsentation der Ergebnisse
+
+---
+
+## Projektmanagemnet
+
+### Rollenverterilung
+Gruppensprecher: @Armiiin98
+Product Owner: @JoK28
+Scrum Master: @h44mi
+Entwicklungsteam: @Moderbro, @888teezy888, @
+
+### Organistaionslinks:
+- [Kanban Board](https://github.com/orgs/Group-Project-TH/projects/1)
+- [Scrum Leitfaden](https://github.com/Group-Project-TH/Group-Project-.git)
+- ~~Roadmap~~
