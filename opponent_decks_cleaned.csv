@@ -1,0 +1,455 @@
+deck_id,card_1,card_2,card_3,card_4,card_5,card_6,card_7,card_8
+0,Elixir Golem,Executioner,Furnace,Hog Rider,Mega Knight,Valkyrie,Witch,Wizard
+1,Earthquake,Firecracker,Hog Rider,Ice Spirit,Skeletons,Tesla,The Log,Valkyrie
+2,Arrows,Dart Goblin,Hog Rider,Knight,Lightning,Mighty Miner,Minions,Tesla
+3,Bandit,Battle Ram,Electro Wizard,Fireball,Magic Archer,P.E.K.K.A,Royal Ghost,Zap
+4,Arrows,Guards,Hog Rider,Inferno Tower,Knight,Mega Knight,Witch,Zap
+5,Firecracker,Freeze,Goblin Barrel,Goblin Gang,Hog Rider,Inferno Tower,Mega Knight,Valkyrie
+6,Archers,Electro Wizard,Fireball,Mini P.E.K.K.A,Minions,Royal Giant,The Log,Zap
+7,Arrows,Goblin Barrel,Goblin Gang,Mini P.E.K.K.A,Royal Giant,Skeleton Barrel,Witch,Wizard
+8,Balloon,Elite Barbarians,Executioner,Firecracker,Golden Knight,Knight,Sparky,Tornado
+9,Arrows,Electro Dragon,Fireball,Goblin Barrel,Inferno Tower,Royal Hogs,The Log,Valkyrie
+10,Boss Bandit,Dart Goblin,Firecracker,Giant Snowball,Goblin Barrel,Goblin Gang,Mini P.E.K.K.A,Royal Delivery
+11,Bowler,Firecracker,Ice Spirit,Royal Hogs,Royal Recruits,Tesla,The Log,Zappies
+12,Freeze,Hog Rider,Knight,Mega Knight,Mini P.E.K.K.A,Rage,Valkyrie,Wizard
+13,Arrows,Goblin Gang,Hog Rider,Mini P.E.K.K.A,Minions,Royal Ghost,Royal Hogs,Vines
+14,Earthquake,Fire Spirit,Firecracker,Hog Rider,Skeletons,Tesla,The Log,Valkyrie
+15,Arrows,Barbarian Barrel,Battle Ram,Firecracker,Ice Spirit,Royal Recruits,Skeletons,Witch
+16,Arrows,Cannon,Dart Goblin,Firecracker,Goblin Gang,Hog Rider,Inferno Dragon,Mega Knight
+17,Archers,Bats,Electro Dragon,Elite Barbarians,Golden Knight,Golem,Night Witch,Zap
+18,Arrows,Cannon,Dart Goblin,Firecracker,Ice Golem,Mega Knight,Mini P.E.K.K.A,Zap
+19,Arrows,Bandit,Goblin Barrel,Goblin Gang,Mega Knight,Musketeer,Valkyrie,Wizard
+20,Arrows,Goblin Machine,Goblinstein,Hunter,P.E.K.K.A,Poison,Prince,Rage
+21,Bomber,Fireball,Giant,Lumberjack,Mega Minion,Prince,Rage,Zap
+22,Fireball,Goblin Barrel,Goblin Gang,Ice Spirit,Knight,Princess,Tesla,The Log
+23,Barbarian Barrel,Cannon,Dart Goblin,Fireball,Firecracker,Goblin Barrel,Lumberjack,Skeleton King
+24,Arrows,Dart Goblin,Electro Giant,Electro Spirit,Hunter,Ice Golem,Skeleton Army,Spear Goblins
+25,Bandit,Electro Wizard,Graveyard,Ice Wizard,Lumberjack,Mega Knight,Mother Witch,The Log
+26,Firecracker,Hog Rider,Ice Spirit,Skeletons,Tesla,The Log,Valkyrie,Vines
+27,Dart Goblin,Goblin Barrel,Goblin Gang,Inferno Tower,Princess,The Log,Valkyrie,Vines
+28,Bats,Bomb Tower,Fireball,Knight,Miner,Spear Goblins,The Log,Wall Breakers
+29,Archer Queen,Arrows,Bandit,Bats,Goblin Gang,Mega Knight,Prince,Wall Breakers
+30,Balloon,Bandit,Dark Prince,Mini P.E.K.K.A,Minion Horde,Poison,Spear Goblins,Three Musketeers
+31,Dart Goblin,Electro Dragon,Firecracker,Ice Spirit,Knight,Mega Knight,Skeleton Barrel,Skeletons
+32,Arrows,Bowler,Giant,Giant Snowball,Graveyard,Guards,Minions,Witch
+33,Bandit,Bowler,Fireball,Firecracker,Furnace,Minion Horde,Princess,Royal Hogs
+34,Baby Dragon,Barbarians,Battle Ram,Bomb Tower,Boss Bandit,Fireball,Knight,Witch
+35,Battle Ram,Electro Spirit,Goblins,Golden Knight,Ice Spirit,Minion Horde,Musketeer,Prince
+36,Archers,Bats,Dart Goblin,Little Prince,Mega Knight,Princess,Skeleton Barrel,Zap
+37,Arrows,Berserker,Fire Spirit,Goblin Drill,Knight,Minions,Skeletons,Witch
+38,Arrows,Dart Goblin,Firecracker,Goblin Barrel,Goblin Gang,Golden Knight,Mortar,Spear Goblins
+39,Arrows,Balloon,Elixir Golem,Goblin Demolisher,Goblin Gang,Goblinstein,Minion Horde,Spear Goblins
+40,Balloon,Bats,Fireball,Goblin Cage,Guards,Lumberjack,Skeleton Barrel,Wizard
+41,Arrows,Berserker,Guards,Inferno Dragon,Mega Knight,Tesla,Vines,Wizard
+42,Cannon,Earthquake,Electro Spirit,Furnace,Hog Rider,Mighty Miner,Skeletons,The Log
+43,Arrows,Bats,Fireball,Hog Rider,Knight,Musketeer,Skeletons,Tesla
+44,Fireball,Goblin Barrel,Goblin Gang,Ice Spirit,Mini P.E.K.K.A,Princess,Tesla,The Log
+45,Arrows,Cannon,Dart Goblin,Goblin Barrel,Knight,Mini P.E.K.K.A,Princess,The Log
+46,Archers,Fireball,Goblins,Little Prince,Royal Recruits,Skeleton Barrel,Wall Breakers,Zappies
+47,Arrows,Boss Bandit,Dart Goblin,Goblin Barrel,Mega Knight,Miner,Ram Rider,Valkyrie
+48,Archer Queen,Fireball,Hog Rider,Ice Spirit,Ice Wizard,Tesla,Witch,Zap
+49,Bandit,Firecracker,Giant Skeleton,Goblin Gang,Minions,Royal Hogs,Spear Goblins,Valkyrie
+50,Boss Bandit,Executioner,Fireball,Goblin Gang,Mega Knight,Minions,Tesla,The Log
+51,Barbarian Barrel,Electro Dragon,Golem,Mini P.E.K.K.A,Royal Ghost,Skeleton Dragons,Tornado,Zappies
+52,Arrows,Barbarians,Giant,Minion Horde,Rage,Skeleton Army,Sparky,Wizard
+53,Bats,Dart Goblin,Goblin Barrel,Goblin Gang,Mega Knight,Princess,Royal Giant,Skeleton Army
+54,Bats,Goblin Gang,Inferno Dragon,Mega Knight,Miner,Skeleton Barrel,Spear Goblins,Zap
+55,Barbarian Barrel,Bomber,Electro Giant,Goblin Hut,Golden Knight,Inferno Dragon,Lightning,Tornado
+56,Arrows,Bats,Dark Prince,Mega Knight,Minions,Mortar,The Log,Wall Breakers
+57,Arrows,Electro Wizard,Executioner,Giant Skeleton,Lightning,Mega Knight,P.E.K.K.A,The Log
+58,Goblin Barrel,Goblin Gang,Ice Spirit,Inferno Tower,Princess,Rocket,The Log,Valkyrie
+59,Bats,Firecracker,Giant Snowball,Goblin Gang,Mega Knight,Miner,Skeleton Barrel,Spear Goblins
+60,Barbarian Barrel,Barbarians,Battle Healer,Electro Dragon,Elixir Collector,Golem,Skeleton Dragons,Tornado
+61,Baby Dragon,Elite Barbarians,Miner,Prince,Princess,Royal Ghost,Witch,Wizard
+62,Bats,Electro Wizard,Firecracker,Goblin Gang,Golden Knight,Mega Knight,Valkyrie,Witch
+63,Archer Queen,Battle Ram,Electro Wizard,Giant Snowball,Magic Archer,P.E.K.K.A,Poison,Royal Ghost
+64,Executioner,Flying Machine,Goblin Gang,Mega Knight,Minions,Poison,Skeleton Barrel,Tornado
+65,Dark Prince,Dart Goblin,Fireball,Goblin Barrel,Goblins,Knight,Mini P.E.K.K.A,The Log
+66,Barbarians,Electro Giant,Executioner,Fireball,Mega Knight,Valkyrie,Witch,Zap
+67,Cannon,Dart Goblin,Executioner,Goblin Gang,Lightning,P.E.K.K.A,The Log,Zap
+68,Dart Goblin,Firecracker,Golden Knight,Hog Rider,Mega Knight,Tesla,The Log,Valkyrie
+69,Dart Goblin,Electro Spirit,Fireball,Firecracker,Golem,Knight,Skeletons,The Log
+70,Cannon,Fireball,Hog Rider,Ice Golem,Ice Spirit,Musketeer,Skeletons,The Log
+71,Baby Dragon,Barbarian Barrel,Furnace,Goblin Machine,Golem,Mini P.E.K.K.A,Minions,Vines
+72,Bomb Tower,Bomber,Ice Wizard,Knight,Mother Witch,P.E.K.K.A,Ram Rider,Zap
+73,Bats,Berserker,Furnace,Prince,Rage,Ram Rider,Skeleton King,Witch
+74,Elixir Golem,Firecracker,Hog Rider,Hunter,Mother Witch,P.E.K.K.A,Poison,Prince
+75,Fireball,Golem,Inferno Dragon,Magic Archer,Night Witch,Prince,Princess,Skeleton Army
+76,Arrows,Battle Ram,Bomber,Fire Spirit,Fireball,Mighty Miner,Royal Recruits,Valkyrie
+77,Earthquake,Electro Dragon,Electro Spirit,Firecracker,Lumberjack,P.E.K.K.A,Skeleton Army,Vines
+78,Fireball,Goblin Barrel,Goblin Gang,Ice Spirit,Inferno Tower,Princess,The Log,Valkyrie
+79,Archers,Firecracker,Giant Snowball,Goblin Drill,Goblin Hut,Golden Knight,Poison,Wall Breakers
+80,Arrows,Bats,Cannon Cart,Goblin Gang,Ice Wizard,Mortar,Skeleton Barrel,Skeleton King
+81,Dark Prince,Elite Barbarians,Mirror,P.E.K.K.A,Rage,Ram Rider,Valkyrie,Wizard
+82,Baby Dragon,Fireball,Firecracker,Hog Rider,Knight,P.E.K.K.A,Royal Ghost,Zap
+83,Barbarian Barrel,Electro Spirit,Fisherman,Lightning,Royal Ghost,Royal Giant,Tesla,Witch
+84,Dart Goblin,Fisherman,Mega Knight,Skeleton Barrel,Tombstone,Tornado,Valkyrie,Wizard
+85,Baby Dragon,Electro Wizard,Goblin Cage,Goblin Giant,Hunter,Knight,Mini P.E.K.K.A,The Log
+86,Arrows,Dart Goblin,Little Prince,Mega Knight,Mini P.E.K.K.A,Skeletons,Wall Breakers,Zap
+87,Battle Healer,Fireball,Goblins,Magic Archer,Royal Giant,Tombstone,X-Bow,Zap
+88,Arrows,Barbarian Barrel,Bowler,Dart Goblin,Giant,Mini P.E.K.K.A,Minions,Skeleton Army
+89,Bandit,Battle Ram,Electro Wizard,Minions,P.E.K.K.A,Poison,Royal Ghost,Zap
+90,Bomber,Giant Snowball,Hog Rider,Mega Knight,Minions,Skeletons,Vines,Wizard
+91,Arrows,Executioner,Fireball,Giant Skeleton,Inferno Dragon,Lumberjack,Mega Knight,Wizard
+92,Archers,Dart Goblin,Electro Giant,Giant Snowball,Goblin Gang,Little Prince,Night Witch,Valkyrie
+93,Arrows,Flying Machine,Furnace,Hog Rider,Mega Knight,Mini P.E.K.K.A,Mother Witch,Wizard
+94,Archers,Dart Goblin,Fireball,Firecracker,Hog Rider,Mini P.E.K.K.A,Mirror,Royal Recruits
+95,Firecracker,Knight,Lumberjack,Mega Knight,Mini P.E.K.K.A,Mirror,Witch,Zap
+96,Arrows,Bats,Dart Goblin,Goblin Gang,Mega Knight,Skeleton Barrel,Wall Breakers,Zap
+97,Bats,Boss Bandit,Inferno Tower,Mega Knight,Prince,Valkyrie,Witch,Zap
+98,Arrows,Goblin Barrel,Goblin Cage,Ice Spirit,Lumberjack,Musketeer,Royal Hogs,Skeleton Army
+99,Archer Queen,Arrows,Electro Wizard,Firecracker,Goblin Barrel,Goblin Gang,Inferno Tower,Valkyrie
+100,Archers,Dart Goblin,Fireball,Little Prince,Mega Knight,Tesla,The Log,Witch
+101,Archer Queen,Goblin Demolisher,Mini P.E.K.K.A,Night Witch,Royal Giant,Skeleton Army,Wall Breakers,Wizard
+102,Archer Queen,Arrows,Elite Barbarians,Lightning,Lumberjack,Mirror,P.E.K.K.A,Three Musketeers
+103,Baby Dragon,Barbarian Barrel,Golem,Lightning,Lumberjack,Mega Minion,Night Witch,Tornado
+104,Elite Barbarians,Elixir Collector,Fire Spirit,Guards,Ice Golem,Ice Spirit,Three Musketeers,Zap
+105,Boss Bandit,Electro Dragon,Elite Barbarians,Fisherman,Giant Snowball,Goblin Barrel,Mini P.E.K.K.A,Rocket
+106,Cannon,Fireball,Firecracker,Ice Golem,Ice Spirit,Ram Rider,Skeletons,The Log
+107,Bats,Furnace,Goblin Barrel,Hog Rider,Knight,Magic Archer,Mega Knight,The Log
+108,Barbarian Barrel,Bomber,Graveyard,Ice Wizard,Poison,Skeleton King,Skeletons,Tombstone
+109,Archers,Bandit,Dark Prince,Elite Barbarians,Goblins,Ice Spirit,Mighty Miner,Rage
+110,Boss Bandit,Executioner,Fireball,Giant,Guards,Heal Spirit,Prince,Zap
+111,Archers,Balloon,Barbarian Barrel,Fireball,Lumberjack,Spear Goblins,Tesla,Valkyrie
+112,Electro Wizard,Goblin Gang,Guards,Hog Rider,Ice Spirit,Inferno Dragon,Valkyrie,Zap
+113,Arrows,Dark Prince,Giant Snowball,Mortar,Musketeer,Prince,Skeleton Army,Skeleton King
+114,Barbarian Barrel,Bats,Bomber,Electro Dragon,Elixir Collector,Golem,Prince,Tornado
+115,Balloon,Elite Barbarians,Goblin Barrel,Inferno Tower,Magic Archer,Skeleton Army,Valkyrie,Wizard
+116,Fireball,Hog Rider,Ice Spirit,Mega Knight,Mirror,Skeletons,Tesla,Zap
+117,Arrows,Executioner,Goblin Barrel,Mega Knight,Mini P.E.K.K.A,Minion Horde,Princess,Tesla
+118,Bandit,Bats,Electro Wizard,Furnace,Goblin Curse,Mega Knight,Mighty Miner,Rage
+119,Archers,Arrows,Fireball,Giant,Knight,Mini P.E.K.K.A,Minions,Musketeer
+120,Electro Spirit,Fireball,Fisherman,Hunter,Monk,Royal Giant,Skeletons,The Log
+121,Dart Goblin,Goblin Barrel,Goblin Gang,Knight,Princess,Rocket,Tesla,The Log
+122,Arrows,Electro Wizard,Inferno Tower,Mega Knight,Skeleton Barrel,The Log,Valkyrie,Witch
+123,Archers,Cannon,Earthquake,Fireball,Goblin Barrel,Hog Rider,The Log,Valkyrie
+124,Firecracker,Furnace,Giant Snowball,Guards,Minions,P.E.K.K.A,Royal Ghost,Spear Goblins
+125,Clone,Fireball,Giant Skeleton,Hog Rider,Lumberjack,Minion Horde,Mirror,Skeletons
+126,Archer Queen,Bomber,Executioner,Giant Snowball,Hog Rider,P.E.K.K.A,Skeleton Army,Spear Goblins
+127,Fireball,Firecracker,Hog Rider,Ice Spirit,Knight,Skeletons,Tesla,The Log
+128,Barbarian Barrel,Battle Ram,Bomber,Boss Bandit,Executioner,Giant Snowball,Mini P.E.K.K.A,Vines
+129,Cannon,Dart Goblin,Goblin Barrel,Mini P.E.K.K.A,Skeleton Army,Skeleton King,The Log,Witch
+130,Balloon,Bats,Electro Spirit,Goblin Barrel,Goblin Gang,Hog Rider,Musketeer,Prince
+131,Arrows,Firecracker,Golden Knight,Mega Knight,Minions,Prince,Royal Hogs,Witch
+132,Bats,Giant Snowball,Goblin Gang,Inferno Dragon,Mega Knight,Miner,Skeleton Barrel,Spear Goblins
+133,Dark Prince,Electro Wizard,Goblin Giant,Mega Minion,Mini P.E.K.K.A,Rage,Sparky,Zap
+134,Fireball,Mega Knight,Mini P.E.K.K.A,Monk,Musketeer,P.E.K.K.A,Sparky,The Log
+135,Arrows,Berserker,Elixir Golem,Firecracker,Furnace,Inferno Dragon,Princess,Valkyrie
+136,Bandit,Dart Goblin,Electro Giant,Mini P.E.K.K.A,P.E.K.K.A,Royal Delivery,Skeletons,The Log
+137,Arrows,Executioner,Golem,Inferno Dragon,Mega Knight,Mirror,Night Witch,Zap
+138,Bomb Tower,Elixir Golem,Firecracker,Goblin Barrel,Goblin Curse,Mega Knight,The Log,Witch
+139,Barbarian Barrel,Bomber,Cannon,Electro Giant,Golden Knight,Lightning,Phoenix,Tornado
+140,Arrows,Clone,Firecracker,Giant Skeleton,Inferno Dragon,Lumberjack,Skeleton Barrel,Witch
+141,Arrows,Barbarian Barrel,Battle Ram,Bowler,Elite Barbarians,Firecracker,Lumberjack,Prince
+142,Bats,Hog Rider,Lightning,P.E.K.K.A,Tornado,Valkyrie,Wizard,Zap
+143,Arrows,Bats,Dart Goblin,Elixir Golem,Lumberjack,Mega Knight,Skeleton Army,Wizard
+144,Electro Dragon,Elixir Golem,Fisherman,Flying Machine,Magic Archer,Night Witch,Poison,Royal Ghost
+145,Firecracker,Goblin Gang,Lightning,Mega Knight,Skeleton Barrel,The Log,Valkyrie,Witch
+146,Flying Machine,Goblin Curse,Ice Spirit,Lava Hound,Miner,Phoenix,Tombstone,Zap
+147,Archers,Dark Prince,Firecracker,Mirror,Mother Witch,Prince,Rage,Tesla
+148,Bandit,Battle Ram,Dark Prince,Electro Wizard,Fireball,Magic Archer,P.E.K.K.A,Zap
+149,Arrows,Bomber,Electro Wizard,Goblin Curse,Goblin Giant,Goblin Machine,P.E.K.K.A,Rage
+150,Battle Ram,Boss Bandit,Firecracker,Furnace,Goblin Curse,Guards,Suspicious Bush,The Log
+151,Fireball,Giant,Goblin Barrel,Hog Rider,Inferno Dragon,Skeleton Army,Valkyrie,Wizard
+152,Arrows,Balloon,Bats,Fireball,Inferno Tower,Lumberjack,Skeleton Army,Wizard
+153,Battle Ram,Mirror,Prince,Rage,Royal Giant,Vines,Witch,Wizard
+154,Baby Dragon,Elixir Collector,Knight,Miner,Skeletons,The Log,Three Musketeers,Zap
+155,Electro Dragon,Elixir Collector,Goblins,Golem,Lumberjack,Mini P.E.K.K.A,Phoenix,Tornado
+156,Arrows,Dart Goblin,Goblin Barrel,Mega Knight,Mini P.E.K.K.A,Mirror,Skeleton Army,Valkyrie
+157,Arrows,Dart Goblin,Firecracker,Goblin Gang,Mini P.E.K.K.A,Skeleton Barrel,Tesla,The Log
+158,Arrows,Elite Barbarians,Fireball,Golem,Lumberjack,Mega Minion,Night Witch,Zap
+159,Arrows,Battle Ram,Dart Goblin,Knight,Mega Knight,P.E.K.K.A,Tesla,The Log
+160,Archers,Fireball,Ice Spirit,Skeletons,Tesla,The Log,Valkyrie,X-Bow
+161,Battle Ram,Dark Prince,Electro Spirit,Fireball,Magic Archer,Mother Witch,P.E.K.K.A,Zap
+162,Earthquake,Firecracker,Hog Rider,Knight,Royal Delivery,Skeletons,Tesla,The Log
+163,Arrows,Goblin Gang,Knight,Mini P.E.K.K.A,Princess,Tesla,The Log,Wizard
+164,Arrows,Dart Goblin,Firecracker,Giant Snowball,Inferno Tower,Mega Knight,P.E.K.K.A,Valkyrie
+165,Fireball,Hog Rider,Ice Golem,Ice Spirit,Musketeer,Skeletons,Tesla,The Log
+166,Arrows,Balloon,Firecracker,Goblin Gang,Mega Knight,Mirror,Valkyrie,Witch
+167,Cannon,Dart Goblin,Fireball,Goblin Drill,Mighty Miner,Skeletons,The Log,Wall Breakers
+168,Archers,Balloon,Fireball,Giant Snowball,Lumberjack,Mother Witch,Royal Recruits,Zappies
+169,Baby Dragon,Balloon,Barbarian Barrel,Bowler,Freeze,Inferno Dragon,Lumberjack,Tornado
+170,Balloon,Cannon,Giant Snowball,Ice Spirit,Miner,Musketeer,The Log,Valkyrie
+171,Arrows,Clone,Giant Skeleton,Skeleton Army,Skeleton Barrel,Sparky,Tesla,Witch
+172,Arrows,Elite Barbarians,Firecracker,Goblin Gang,Royal Hogs,Tesla,Wizard,Zap
+173,Arrows,Clone,Firecracker,Flying Machine,Giant Skeleton,Skeleton Army,Skeleton Barrel,Witch
+174,Arrows,Bandit,Fireball,Goblin Gang,Prince,Skeleton Army,Valkyrie,Wizard
+175,Arrows,Dart Goblin,Fireball,Guards,Hog Rider,Knight,P.E.K.K.A,Skeleton King
+176,Cannon Cart,Dart Goblin,Fireball,Goblin Gang,Mortar,Skeleton Army,Skeleton Barrel,Skeleton King
+177,Arrows,Balloon,Barbarian Barrel,Bomber,Electro Dragon,Lumberjack,P.E.K.K.A,Tesla
+178,Bats,Berserker,Firecracker,Musketeer,Prince,Ram Rider,Skeleton King,Spear Goblins
+179,Electro Wizard,Flying Machine,Goblin Giant,Ice Wizard,Poison,Royal Ghost,The Log,Valkyrie
+180,Berserker,Bowler,Electro Dragon,Firecracker,Golem,Skeleton Barrel,Valkyrie,Zap
+181,Barbarians,Flying Machine,Goblin Curse,Lava Hound,Miner,Phoenix,Tombstone,Zap
+182,Archers,Barbarian Barrel,Fireball,Fisherman,Mother Witch,Royal Giant,Skeleton King,Tombstone
+183,Arrows,Fireball,Goblin Barrel,Inferno Dragon,Mega Knight,Mini P.E.K.K.A,Skeleton Army,Wizard
+184,Archers,Fireball,Ice Spirit,Knight,Skeletons,Tesla,The Log,X-Bow
+185,Bats,Dart Goblin,Goblin Barrel,Mega Knight,Prince,Princess,Royal Giant,Skeleton Army
+186,Baby Dragon,Boss Bandit,Dart Goblin,Electro Wizard,Furnace,Goblin Barrel,P.E.K.K.A,Tornado
+187,Bowler,Cannon,Electro Giant,Guards,Knight,Lightning,Phoenix,Tornado
+188,Electro Spirit,Fisherman,Hunter,Monk,Rage,Royal Giant,Spirit Empress,The Log
+189,Baby Dragon,Balloon,Freeze,Ice Wizard,Lumberjack,P.E.K.K.A,Tornado,Zap
+190,Arrows,Hog Rider,Minion Horde,Princess,Tesla,Valkyrie,Witch,Wizard
+191,Battle Ram,Giant Snowball,Inferno Tower,Mirror,Monk,Mother Witch,Royal Recruits,The Log
+192,Goblin Gang,Hog Rider,Inferno Tower,Knight,Minion Horde,Princess,Rocket,The Log
+193,Elixir Collector,Giant Snowball,Ice Golem,Musketeer,Skeletons,Tesla,The Log,X-Bow
+194,Arrows,Dart Goblin,Fireball,Goblin Barrel,Knight,Lumberjack,Rage,Witch
+195,Archers,Ice Spirit,Mortar,Rocket,Skeletons,The Log,Tornado,Valkyrie
+196,Barbarian Barrel,Dart Goblin,Hog Rider,Knight,The Log,Tombstone,Wall Breakers,Wizard
+197,Electro Wizard,Hog Rider,P.E.K.K.A,Tesla,The Log,Valkyrie,Wizard,Zap
+198,Earthquake,Firecracker,Hog Rider,Ice Spirit,Knight,Skeletons,Tesla,The Log
+199,Balloon,Bats,Bomber,Hunter,Knight,Mega Knight,Wall Breakers,Zap
+200,Balloon,Fireball,Guards,Inferno Dragon,Lava Hound,Mega Minion,Tombstone,Zap
+201,Baby Dragon,Berserker,Electro Spirit,Hog Rider,Minions,P.E.K.K.A,The Log,Vines
+202,Arrows,Dart Goblin,Goblin Barrel,Goblin Gang,Mega Knight,Royal Hogs,Skeleton Army,Wizard
+203,Freeze,Hog Rider,Lightning,Mini P.E.K.K.A,Minion Horde,Rocket,Valkyrie,Wizard
+204,Cannon,Dark Prince,Dart Goblin,Goblin Barrel,Goblin Gang,Ice Spirit,Knight,The Log
+205,Arrows,Bats,Bomber,Dark Prince,Firecracker,Goblin Barrel,Mega Knight,Royal Giant
+206,Clone,Giant Skeleton,Goblin Barrel,Minion Horde,Ram Rider,Skeleton Army,Witch,Zap
+207,Bats,Executioner,Goblin Barrel,Inferno Dragon,Mega Knight,Skeletons,Valkyrie,Zap
+208,Bats,Electro Giant,Firecracker,Goblin Barrel,Mini P.E.K.K.A,Royal Hogs,Witch,Zap
+209,Arrows,Firecracker,Goblin Barrel,Goblin Gang,Golden Knight,Ram Rider,Rascals,Valkyrie
+210,Fireball,Firecracker,Hog Rider,Minions,Rage,Skeletons,Valkyrie,Wizard
+211,Firecracker,Goblin Barrel,Ice Spirit,Inferno Tower,Knight,Royal Delivery,Skeleton Barrel,The Log
+212,Arrows,Baby Dragon,Bomber,Dart Goblin,Electro Wizard,Firecracker,P.E.K.K.A,Valkyrie
+213,Barbarian Barrel,Goblin Hut,Graveyard,Ice Wizard,Poison,Valkyrie,Vines,Witch
+214,Battle Ram,Electro Wizard,Fireball,Firecracker,Knight,P.E.K.K.A,Tesla,Zap
+215,Arrows,Boss Bandit,Electro Wizard,Knight,P.E.K.K.A,Skeleton Army,Witch,Zap
+216,Bats,Little Prince,Mega Knight,Musketeer,Prince,Royal Delivery,Wall Breakers,Zap
+217,Arrows,Baby Dragon,Furnace,Giant Skeleton,Goblin Barrel,Magic Archer,Skeleton Army,Valkyrie
+218,Bats,Furnace,Golem,Lumberjack,Night Witch,Poison,Skeleton Army,Vines
+219,Boss Bandit,Executioner,Hog Rider,Mini P.E.K.K.A,Prince,Sparky,The Log,Wizard
+220,Boss Bandit,Electro Dragon,Furnace,Magic Archer,Mega Knight,The Log,Tornado,Vines
+221,Fireball,Firecracker,Guards,Hog Rider,Ice Spirit,Mega Knight,Mighty Miner,The Log
+222,Dart Goblin,Electro Dragon,Firecracker,Goblin Barrel,Goblins,Hog Rider,Mega Knight,Valkyrie
+223,Arrows,Mega Knight,Mini P.E.K.K.A,Minions,Musketeer,Prince,Skeletons,Zap
+224,Arrows,Electro Dragon,Goblin Cage,Mega Knight,Mini P.E.K.K.A,Skeleton King,Skeletons,Witch
+225,Arrows,Goblin Barrel,Mega Knight,Mini P.E.K.K.A,Minion Horde,Prince,Valkyrie,Witch
+226,Arrows,Balloon,Bats,Hunter,Mega Knight,Ram Rider,Skeleton Army,Valkyrie
+227,Balloon,Firecracker,Hog Rider,Minion Horde,Prince,Royal Ghost,Skeleton Army,Wizard
+228,Arrows,Bats,Giant,Mini P.E.K.K.A,Minion Horde,Skeleton Army,Sparky,Zap
+229,Balloon,Dart Goblin,Electro Wizard,Magic Archer,Ram Rider,Skeleton Army,Valkyrie,Wizard
+230,Elite Barbarians,Firecracker,Goblin Barrel,Golden Knight,Inferno Tower,Skeleton Army,The Log,Witch
+231,Archers,Firecracker,Giant Skeleton,Hog Rider,Mega Knight,Mini P.E.K.K.A,The Log,Valkyrie
+232,Dart Goblin,Goblin Barrel,Goblin Gang,Inferno Tower,Knight,Princess,Rocket,The Log
+233,Barbarian Barrel,Goblin Hut,Graveyard,Ice Spirit,Knight,Poison,Vines,Witch
+234,Baby Dragon,Goblin Barrel,Mega Knight,Musketeer,Skeletons,Tesla,The Log,Zap
+235,Bandit,Bats,Clone,Elite Barbarians,Skeleton Army,Skeleton Barrel,The Log,Witch
+236,Hog Rider,Mega Knight,Mini P.E.K.K.A,Minions,Mirror,Mother Witch,Witch,Wizard
+237,Arrows,Balloon,Elite Barbarians,Giant Skeleton,Minion Horde,Musketeer,Royal Giant,Witch
+238,Baby Dragon,Elite Barbarians,Lightning,Minion Horde,Rage,Skeleton Army,Three Musketeers,Witch
+239,Balloon,Barbarians,Fireball,Lava Hound,Mega Minion,Skeleton Dragons,Tombstone,Zap
+240,Berserker,Boss Bandit,Goblin Machine,Mega Knight,Minion Horde,Rune Giant,Suspicious Bush,Valkyrie
+241,Balloon,Dart Goblin,Lumberjack,Minions,Skeleton Army,Tesla,The Log,Valkyrie
+242,Arrows,Balloon,Bats,Electro Dragon,Lava Hound,Skeleton Barrel,Tombstone,Valkyrie
+243,Dart Goblin,Firecracker,Goblin Barrel,Lumberjack,Mega Knight,Mini P.E.K.K.A,Tesla,The Log
+244,Balloon,Bandit,Giant,Mini P.E.K.K.A,Musketeer,Skeleton Army,Witch,Wizard
+245,Battle Ram,Cannon,Dark Prince,Dart Goblin,Electro Dragon,Fireball,Mega Knight,Valkyrie
+246,Barbarian Barrel,Cannon,Earthquake,Electro Spirit,Firecracker,Hog Rider,Mighty Miner,Skeletons
+247,Arrows,Cannon,Firecracker,Inferno Dragon,Mega Knight,Prince,Vines,Wall Breakers
+248,Arrows,Furnace,Hog Rider,Inferno Tower,Lumberjack,Mega Knight,Valkyrie,Witch
+249,Bats,Cannon,Fireball,Little Prince,Mega Knight,Mini P.E.K.K.A,Skeleton Barrel,Wall Breakers
+250,Fireball,Hog Rider,Ice Golem,Ice Spirit,Inferno Tower,Magic Archer,Skeletons,The Log
+251,Cannon,Hog Rider,Ice Golem,Ice Spirit,Knight,Musketeer,Skeletons,The Log
+252,Arrows,Bomber,Elite Barbarians,Golem,Inferno Dragon,Lumberjack,Mega Minion,Zap
+253,Baby Dragon,Barbarian Barrel,Firecracker,Inferno Tower,Mega Knight,Princess,Skeleton Army,Witch
+254,Balloon,Barbarian Barrel,Bomb Tower,Giant Snowball,Ice Golem,Miner,Musketeer,Skeletons
+255,Bandit,Electro Wizard,Fireball,Magic Archer,P.E.K.K.A,Royal Ghost,Wall Breakers,Zap
+256,Electro Wizard,Freeze,Furnace,Hog Rider,Inferno Dragon,Mega Knight,Prince,Wizard
+257,Berserker,Dart Goblin,Fire Spirit,Furnace,Ice Spirit,Skeleton Barrel,Suspicious Bush,Wall Breakers
+258,Baby Dragon,Battle Ram,Minions,Musketeer,Princess,Royal Hogs,Valkyrie,Void
+259,Boss Bandit,Dart Goblin,Firecracker,Goblin Gang,Ice Spirit,Mega Knight,The Log,Wizard
+260,Baby Dragon,Electro Giant,Inferno Tower,Prince,Ram Rider,Royal Giant,The Log,Valkyrie
+261,Dark Prince,Ice Spirit,Miner,Rocket,Royal Delivery,Skeletons,Tesla,The Log
+262,Ice Spirit,Ice Wizard,Mini P.E.K.K.A,Mortar,Rocket,Skeletons,The Log,Valkyrie
+263,Arrows,Elixir Golem,Firecracker,Skeletons,Spirit Empress,Tombstone,Vines,Witch
+264,Cannon,Firecracker,Hog Rider,Ice Spirit,Knight,Mini P.E.K.K.A,The Log,Witch
+265,Electro Wizard,Executioner,Mega Knight,P.E.K.K.A,Poison,Sparky,Vines,Wizard
+266,Bowler,Giant,Giant Snowball,Graveyard,Guards,Minions,Vines,Witch
+267,Dart Goblin,Electro Wizard,Executioner,Golden Knight,Hog Rider,Mega Knight,Skeletons,The Log
+268,Arrows,Freeze,Golden Knight,Guards,Mega Knight,Mini P.E.K.K.A,Musketeer,Rocket
+269,Arrows,Firecracker,Hog Rider,Mega Knight,Mini P.E.K.K.A,The Log,Valkyrie,Witch
+270,Baby Dragon,Bandit,Mega Knight,Minion Horde,Rage,Rocket,Royal Hogs,Valkyrie
+271,Arrows,Balloon,Electro Dragon,Giant Snowball,Little Prince,Lumberjack,P.E.K.K.A,Skeletons
+272,Bandit,Bats,Boss Bandit,Knight,Lumberjack,Mini P.E.K.K.A,Valkyrie,Witch
+273,Arrows,Cannon,Dart Goblin,Elixir Golem,Mini P.E.K.K.A,Mirror,Skeleton Barrel,Witch
+274,Goblin Barrel,Goblin Gang,Hog Rider,Inferno Tower,Knight,Princess,Rocket,The Log
+275,Arrows,Dart Goblin,Earthquake,Hog Rider,Ice Spirit,Mini P.E.K.K.A,Musketeer,Witch
+276,Cannon,Earthquake,Firecracker,Hog Rider,Knight,Royal Delivery,Skeletons,The Log
+277,Barbarian Barrel,Cannon,Earthquake,Firecracker,Hog Rider,Ice Spirit,Knight,Skeletons
+278,Dart Goblin,Firecracker,Mega Knight,Mighty Miner,Miner,Rage,Skeleton Barrel,Vines
+279,Arrows,Giant,Minion Horde,Minions,Skeleton Army,Sparky,Three Musketeers,Valkyrie
+280,Arrows,Balloon,Executioner,Freeze,Goblin Gang,Inferno Tower,Mini P.E.K.K.A,Valkyrie
+281,Bandit,Bats,Dark Prince,Electro Wizard,Elite Barbarians,Executioner,Graveyard,Mega Knight
+282,Arrows,Barbarian Barrel,Cannon,Goblin Gang,Goblinstein,Knight,Musketeer,Sparky
+283,Fire Spirit,Hog Rider,Miner,Mini P.E.K.K.A,Minions,Princess,Skeleton Army,Zap
+284,Balloon,Freeze,Furnace,Mega Knight,Minion Horde,Royal Hogs,Skeleton Army,Wizard
+285,Barbarian Barrel,Goblin Hut,Hog Rider,Hunter,Ice Spirit,Knight,Vines,Witch
+286,Arrows,Electro Wizard,Fireball,Guards,Knight,Ram Rider,Tesla,Witch
+287,Arrows,Goblin Barrel,Goblin Gang,Inferno Tower,Mini P.E.K.K.A,Mother Witch,Royal Recruits,The Log
+288,Arrows,Dart Goblin,Firecracker,Knight,Mega Knight,Mini P.E.K.K.A,The Log,Witch
+289,Balloon,Fireball,Firecracker,Freeze,Knight,Mega Knight,Skeleton Army,Wizard
+290,Electro Wizard,Firecracker,Goblin Gang,Hog Rider,P.E.K.K.A,Poison,Valkyrie,Zap
+291,Arrows,Dark Prince,Firecracker,Lumberjack,Minions,Princess,Valkyrie,Witch
+292,Archer Queen,Cannon,Earthquake,Ice Spirit,Royal Delivery,Royal Hogs,Skeletons,The Log
+293,Boss Bandit,Ice Spirit,Mini P.E.K.K.A,Musketeer,Royal Delivery,Vines,Witch,Zap
+294,Baby Dragon,Barbarian Barrel,Battle Healer,Electro Dragon,Elixir Collector,Golem,Lumberjack,Tornado
+295,Cannon,Firecracker,Knight,Spear Goblins,Valkyrie,Vines,Wall Breakers,Witch
+296,Baby Dragon,Bandit,Electro Wizard,Firecracker,Flying Machine,Golden Knight,Mega Knight,Witch
+297,Archers,Graveyard,Ice Wizard,Mega Knight,Mini P.E.K.K.A,Skeletons,The Log,Wizard
+298,Electro Wizard,Executioner,Firecracker,Hog Rider,Mega Knight,Mirror,Skeletons,Tornado
+299,Arrows,Bats,Golden Knight,Mini P.E.K.K.A,Prince,Skeleton Barrel,Valkyrie,Wizard
+300,Barbarian Barrel,Boss Bandit,Executioner,Furnace,Giant Snowball,Guards,Ram Rider,Vines
+301,Cannon,Fireball,Firecracker,Goblin Barrel,Goblin Cage,Goblin Gang,The Log,Valkyrie
+302,Fireball,Giant,Giant Snowball,Mini P.E.K.K.A,Minions,Musketeer,Witch,Zap
+303,Balloon,Dart Goblin,Mega Knight,Prince,Princess,Rage,Skeleton Army,Zap
+304,Dart Goblin,Goblin Barrel,Goblin Gang,Knight,Royal Delivery,Skeleton Barrel,The Log,Wall Breakers
+305,Arrows,Firecracker,Mini P.E.K.K.A,Musketeer,Skeleton Army,Skeleton Barrel,Skeleton King,Tesla
+306,Electro Wizard,Goblin Giant,Golden Knight,Heal Spirit,Mini P.E.K.K.A,Rage,Sparky,Zap
+307,Goblin Barrel,Hog Rider,Inferno Dragon,Musketeer,Skeleton Army,Tesla,Valkyrie,Zap
+308,Cannon,Fireball,Hog Rider,Ice Spirit,Knight,Musketeer,Skeletons,The Log
+309,Dart Goblin,Fireball,Mini P.E.K.K.A,Princess,Royal Giant,Skeleton Army,The Log,Vines
+310,Balloon,Fireball,Firecracker,Golden Knight,Inferno Tower,Skeletons,The Log,Zap
+311,Archers,Dart Goblin,Electro Spirit,Giant,Mini P.E.K.K.A,Tesla,Vines,Zap
+312,Barbarian Barrel,Dart Goblin,Fireball,Minions,Mortar,Skeleton Barrel,Skeletons,Valkyrie
+313,Arrows,Bats,Cannon,Firecracker,Mega Knight,Royal Hogs,Skeletons,Suspicious Bush
+314,Barbarian Barrel,Goblin Hut,Lumberjack,Miner,Minions,Poison,Prince,Wall Breakers
+315,Goblin Giant,Knight,Lightning,Mega Minion,Mini P.E.K.K.A,Rage,Sparky,Zap
+316,Balloon,Electro Dragon,Firecracker,Freeze,Goblin Cage,Lumberjack,Royal Ghost,Zap
+317,Executioner,Goblin Gang,Mega Knight,Miner,Prince,The Log,Wall Breakers,Zap
+318,Arrows,Boss Bandit,Cannon,Guards,Hog Rider,Royal Ghost,Skeletons,Witch
+319,Barbarian Barrel,Fireball,Hunter,Ice Spirit,Royal Ghost,Royal Hogs,Skeletons,Three Musketeers
+320,Arrows,Baby Dragon,Balloon,Knight,Lightning,Mega Knight,Minions,Wall Breakers
+321,Archers,Electro Spirit,Fireball,Knight,Skeletons,Tesla,The Log,X-Bow
+322,Fireball,Firecracker,Goblin Gang,Knight,Minions,Mortar,Skeleton Barrel,The Log
+323,Barbarian Barrel,Fireball,Hunter,Ice Golem,Royal Ghost,Royal Hogs,Skeletons,Three Musketeers
+324,Arrows,Cannon Cart,Fisherman,Heal Spirit,Hunter,Magic Archer,Ram Rider,Royal Recruits
+325,Archer Queen,Arrows,Bomb Tower,Firecracker,Goblins,Hog Rider,Knight,Mega Knight
+326,Earthquake,Firecracker,Hog Rider,Ice Spirit,Inferno Tower,Mighty Miner,Skeletons,The Log
+327,Golem,Knight,Lumberjack,Musketeer,Night Witch,The Log,Tornado,Zap
+328,Dart Goblin,Electro Spirit,Goblin Barrel,Goblin Gang,Knight,Rocket,Tesla,The Log
+329,Arrows,Inferno Dragon,Lightning,Mega Knight,Mini P.E.K.K.A,Royal Hogs,Skeleton Army,Witch
+330,Electro Spirit,Fireball,Firecracker,Goblin Gang,Hog Rider,Knight,Mortar,The Log
+331,Firecracker,Freeze,Giant Skeleton,Lumberjack,Minions,Ram Rider,Skeleton Army,Valkyrie
+332,Arrows,Clone,Giant Skeleton,Goblin Barrel,Minion Horde,Skeleton Army,Sparky,Tesla
+333,Arrows,Elite Barbarians,Elixir Golem,Magic Archer,Mini P.E.K.K.A,Royal Recruits,Valkyrie,Witch
+334,Balloon,Firecracker,Goblin Gang,Hog Rider,Lumberjack,Mega Knight,The Log,Valkyrie
+335,Bats,Firecracker,Golden Knight,Hog Rider,Ice Wizard,Mega Knight,Tesla,The Log
+336,Bats,Cannon,Knight,Miner,Poison,Spear Goblins,The Log,Wall Breakers
+337,Arrows,Baby Dragon,Fireball,Mother Witch,Royal Ghost,Royal Hogs,Royal Recruits,Tombstone
+338,Arrows,Barbarian Barrel,Flying Machine,Goblin Cage,Hog Rider,Mighty Miner,Royal Recruits,Zappies
+339,Dark Prince,Goblin Giant,Mega Minion,Mini P.E.K.K.A,Mother Witch,Sparky,Vines,Zap
+340,Ice Wizard,Knight,Rocket,Skeletons,Tesla,The Log,Tornado,X-Bow
+341,Barbarian Barrel,Earthquake,Electro Dragon,Firecracker,Goblin Gang,Hog Rider,Mortar,P.E.K.K.A
+342,Arrows,Battle Healer,Electro Dragon,Elite Barbarians,Elixir Golem,Fireball,Inferno Dragon,Rage
+343,Bats,Dart Goblin,Firecracker,Goblin Gang,Hog Rider,Mega Knight,The Log,Wall Breakers
+344,Arrows,Dart Goblin,Firecracker,Knight,Mega Knight,P.E.K.K.A,Witch,Zap
+345,Balloon,Bandit,Barbarian Barrel,Electro Wizard,Inferno Dragon,Skeleton Army,Valkyrie,Wizard
+346,Dart Goblin,Goblin Barrel,Goblin Gang,Ice Spirit,Inferno Tower,Knight,Princess,The Log
+347,Arrows,Balloon,Fireball,Guards,Inferno Dragon,Lava Hound,Skeleton Dragons,Valkyrie
+348,Arrows,Firecracker,Guards,Hog Rider,Mighty Miner,Royal Recruits,Skeletons,Wall Breakers
+349,Bats,Dart Goblin,Goblin Gang,Hog Rider,Mega Knight,Prince,Wall Breakers,Zap
+350,Barbarian Barrel,Goblin Hut,Graveyard,Ice Wizard,Knight,Poison,Vines,Witch
+351,Cannon,Cannon Cart,Dart Goblin,Goblin Barrel,Goblin Gang,Goblinstein,Royal Recruits,The Log
+352,Arrows,Battle Ram,Electro Wizard,Golden Knight,Lumberjack,Mother Witch,P.E.K.K.A,Royal Ghost
+353,Barbarian Barrel,Electro Spirit,Fireball,Goblin Gang,Ice Wizard,Mortar,Royal Recruits,Skeleton King
+354,Cannon,Fireball,Firecracker,Golden Knight,Hog Rider,Ice Spirit,Skeletons,The Log
+355,Bowler,Giant,Giant Snowball,Graveyard,Mini P.E.K.K.A,Vines,Witch,Zappies
+356,Cannon,Guards,Mighty Miner,Royal Delivery,Royal Recruits,Skeleton Barrel,The Log,Wall Breakers
+357,Arrows,Firecracker,Goblin Barrel,Mega Knight,Mini P.E.K.K.A,Skeleton Army,Valkyrie,Wizard
+358,Goblin Barrel,Goblin Gang,Guards,Inferno Tower,Knight,Princess,Rocket,The Log
+359,Arrows,Bomb Tower,Flying Machine,Guards,Lava Hound,Lightning,Miner,Royal Delivery
+360,Barbarian Barrel,Furnace,Goblin Giant,Goblin Machine,Minions,Mother Witch,Prince,Rage
+361,Arrows,Bomber,Electro Wizard,Firecracker,Hog Rider,Lumberjack,Minions,Prince
+362,Arrows,Barbarians,Firecracker,Goblin Gang,Golem,Lightning,Mega Knight,Night Witch
+363,Bats,Goblin Barrel,Knight,Mega Knight,Minion Horde,Mortar,Skeleton Army,The Log
+364,Bomber,Electro Spirit,Fireball,Flying Machine,Goblin Cage,Royal Hogs,Royal Recruits,Zappies
+365,Dark Prince,Hog Rider,Ice Spirit,Inferno Dragon,Mega Knight,Rage,The Log,Witch
+366,Barbarians,Firecracker,Ice Wizard,Lightning,Monk,Mother Witch,Valkyrie,Vines
+367,Arrows,Electro Wizard,Goblin Barrel,Hog Rider,Inferno Tower,Mega Knight,Minions,Skeleton Army
+368,Electro Wizard,Firecracker,Furnace,Guards,Hog Rider,Lightning,P.E.K.K.A,The Log
+369,Firecracker,Hog Rider,Inferno Tower,Royal Giant,Skeleton Army,The Log,Valkyrie,Zap
+370,Arrows,Goblin Barrel,Hog Rider,Mega Knight,Minion Horde,Skeleton Army,Witch,Zap
+371,Arrows,Baby Dragon,Balloon,Giant Snowball,Guards,Inferno Dragon,Lava Hound,Valkyrie
+372,Arrows,Dart Goblin,Goblin Barrel,Mega Knight,Skeleton Army,Tesla,Valkyrie,Witch
+373,Electro Wizard,Knight,Lumberjack,Minions,Prince,Valkyrie,Witch,Zap
+374,Cannon,Earthquake,Firecracker,Golden Knight,Hog Rider,Ice Spirit,Skeletons,The Log
+375,Archer Queen,Bomb Tower,Earthquake,Ice Spirit,Royal Delivery,Royal Hogs,Skeletons,The Log
+376,Bats,Fireball,Mega Knight,Mini P.E.K.K.A,Skeleton Army,Skeleton Barrel,Tesla,Zap
+377,Arrows,Bats,Dark Prince,Goblin Giant,Knight,Rage,Sparky,Witch
+378,Archers,Arrows,Bowler,Hog Rider,Mega Minion,Mini P.E.K.K.A,Royal Recruits,Witch
+379,Firecracker,Hog Rider,Ice Spirit,Minions,Rage,Skeleton Army,Tornado,Valkyrie
+380,Cannon,Dart Goblin,Goblin Barrel,Goblin Gang,Princess,The Log,Valkyrie,Wall Breakers
+381,Barbarian Barrel,Fireball,Goblin Gang,Knight,Miner,Minions,Mortar,Skeleton Barrel
+382,Dart Goblin,Firecracker,Goblin Barrel,Inferno Tower,Knight,Mega Knight,The Log,Wall Breakers
+383,Arrows,Firecracker,Goblin Giant,Inferno Dragon,Knight,Mini P.E.K.K.A,Skeleton Army,Witch
+384,Arrows,Bats,Elite Barbarians,Furnace,Lumberjack,Mega Knight,Mirror,Prince
+385,Baby Dragon,Battle Healer,Electro Dragon,Elixir Golem,Mini P.E.K.K.A,Royal Ghost,Skeleton Army,Tornado
+386,Arrows,Dark Prince,Electro Wizard,Fireball,Goblin Drill,P.E.K.K.A,Tornado,Valkyrie
+387,Arrows,Earthquake,Firecracker,Hog Rider,Inferno Dragon,Minions,Royal Recruits,Valkyrie
+388,Baby Dragon,Balloon,Fireball,Guards,Lava Hound,Mega Minion,Valkyrie,Vines
+389,Arrows,Bandit,Firecracker,Goblin Cage,Heal Spirit,Hog Rider,P.E.K.K.A,Vines
+390,Arrows,Goblin Gang,Little Prince,Mega Knight,Mirror,P.E.K.K.A,Skeleton Army,Wizard
+391,Electro Spirit,Fireball,Firecracker,Hog Rider,Skeletons,Tesla,The Log,Valkyrie
+392,Bandit,Battle Ram,Electro Wizard,Magic Archer,P.E.K.K.A,Poison,Royal Ghost,Zap
+393,Arrows,Bats,Firecracker,Mega Knight,Miner,Prince,Skeleton Army,Zap
+394,Arrows,Dart Goblin,Electro Wizard,Elixir Golem,Executioner,Mini P.E.K.K.A,Witch,Wizard
+395,Arrows,Dart Goblin,Guards,Mega Knight,Mini P.E.K.K.A,The Log,Valkyrie,Zap
+396,Heal Spirit,Mega Knight,Minion Horde,Skeleton Army,Sparky,The Log,Three Musketeers,Wizard
+397,Arrows,Fireball,Firecracker,Goblin Barrel,Guards,Mega Knight,Minions,Skeleton Barrel
+398,Barbarian Barrel,Battle Healer,Electro Dragon,Electro Spirit,Golem,Mighty Miner,Night Witch,Skeletons
+399,Arrows,Electro Wizard,Executioner,Inferno Tower,Lumberjack,P.E.K.K.A,Wall Breakers,Zap
+400,Arrows,Electro Wizard,Lightning,Mega Knight,Mirror,Prince,The Log,Witch
+401,Bandit,Berserker,Dart Goblin,Electro Spirit,Ice Wizard,Skeletons,Suspicious Bush,Wall Breakers
+402,Boss Bandit,Hog Rider,Knight,Magic Archer,Musketeer,Poison,Tesla,Vines
+403,Balloon,Barbarian Barrel,Bowler,Electro Dragon,Freeze,Inferno Dragon,Lumberjack,Tornado
+404,Arrows,Balloon,Firecracker,Inferno Dragon,Mega Knight,Miner,Night Witch,Vines
+405,Archer Queen,Bomber,Cannon,Earthquake,Ice Spirit,Royal Delivery,Royal Hogs,Skeletons
+406,Barbarian Barrel,Goblin Demolisher,Hog Rider,Little Prince,Royal Ghost,Royal Recruits,Tombstone,Void
+407,Cannon,Earthquake,Firecracker,Hog Rider,Ice Spirit,Mighty Miner,Skeletons,The Log
+408,Dark Prince,Executioner,Firecracker,Mega Knight,Minion Horde,Prince,Royal Hogs,Skeleton Army
+409,Firecracker,Hog Rider,Mega Knight,Mini P.E.K.K.A,Skeleton Army,Tesla,Wizard,Zap
+410,Archers,Goblin Barrel,Knight,Princess,Ram Rider,Skeleton Army,Valkyrie,Zap
+411,Dart Goblin,Goblin Barrel,Goblin Gang,Mother Witch,Skeleton Barrel,Skeleton King,The Log,Wall Breakers
+412,Arrows,Electro Wizard,Firecracker,Hog Rider,Lumberjack,Mega Knight,Skeleton Army,Valkyrie
+413,Furnace,Goblin Barrel,Goblin Gang,Ice Spirit,Inferno Tower,Knight,Princess,The Log
+414,Arrows,Flying Machine,Goblin Cage,Guards,Lava Hound,Lightning,Skeleton Dragons,Valkyrie
+415,Cannon,Dart Goblin,Goblin Barrel,Goblin Gang,Ice Spirit,Knight,Rocket,The Log
+416,Dark Prince,Dart Goblin,Firecracker,Goblin Curse,Goblin Gang,Princess,Skeleton Army,Tombstone
+417,Arrows,Fireball,Firecracker,Mini P.E.K.K.A,Ram Rider,Skeleton Army,Valkyrie,Witch
+418,Firecracker,Hog Rider,Ice Spirit,Mega Knight,Mini P.E.K.K.A,Skeletons,The Log,Valkyrie
+419,Barbarian Barrel,Goblin Hut,Ice Spirit,Ice Wizard,Miner,Poison,Valkyrie,Wall Breakers
+420,Arrows,Battle Ram,Firecracker,Ice Spirit,Knight,P.E.K.K.A,Tesla,The Log
+421,Arrows,Bomber,Goblin Drill,Little Prince,Rocket,Skeletons,Tesla,Valkyrie
+422,Arrows,Cannon,Dart Goblin,Goblin Gang,Knight,Miner,Royal Recruits,Wall Breakers
+423,Dark Prince,Electro Spirit,Miner,Rocket,Royal Delivery,Skeletons,Tesla,The Log
+424,Cannon,Fire Spirit,Fireball,Hog Rider,Mega Knight,Musketeer,Skeletons,The Log
+425,Cannon,Miner,Poison,Rascals,Royal Delivery,Skeleton Barrel,Skeletons,The Log
+426,Bats,Firecracker,Goblin Gang,Hog Rider,Mega Knight,Mini P.E.K.K.A,Skeletons,Zap
+427,Baby Dragon,Balloon,Bats,Mega Knight,Princess,Skeleton Army,Witch,Wizard
+428,Arrows,Goblin Gang,Mega Knight,Royal Hogs,Skeleton Barrel,Spear Goblins,Vines,Witch
+429,Arrows,Firecracker,Giant,Mini P.E.K.K.A,Rage,Skeleton Army,Witch,Wizard
+430,Dart Goblin,Electro Spirit,Hog Rider,Mini P.E.K.K.A,Mother Witch,Tesla,The Log,Wall Breakers
+431,Archers,Arrows,Bomber,Elite Barbarians,Fireball,Golem,Mega Minion,Valkyrie
+432,Bandit,Dart Goblin,Fireball,Firecracker,Mega Knight,Mini P.E.K.K.A,Musketeer,Valkyrie
+433,Electro Wizard,Firecracker,Hog Rider,Ice Spirit,Mini P.E.K.K.A,P.E.K.K.A,The Log,Wizard
+434,Earthquake,Hog Rider,Ice Spirit,Musketeer,Royal Delivery,Skeletons,Tesla,The Log
+435,Arrows,Balloon,Lumberjack,Mega Knight,Mega Minion,Skeleton Army,Spirit Empress,Zap
+436,Archers,Fireball,Ice Golem,Ice Spirit,Skeletons,Tesla,The Log,X-Bow
+437,Bomb Tower,Firecracker,Knight,Magic Archer,Miner,The Log,Tornado,Wall Breakers
+438,Cannon,Dart Goblin,Goblin Barrel,Goblin Gang,Ice Spirit,Princess,Valkyrie,Wall Breakers
+439,Arrows,Bomber,Boss Bandit,Firecracker,Mini P.E.K.K.A,Minions,Spear Goblins,Vines
+440,Cannon,Fireball,Furnace,Goblin Barrel,Mega Knight,Skeleton Army,Wizard,Zap
+441,Arrows,Bowler,Dart Goblin,Goblin Barrel,Goblin Gang,Guards,Tesla,Valkyrie
+442,Electro Wizard,Firecracker,Giant Skeleton,Magic Archer,Mini P.E.K.K.A,The Log,Valkyrie,Witch
+443,Bandit,Boss Bandit,Firecracker,Furnace,Golden Knight,Mega Knight,Mini P.E.K.K.A,Witch
+444,Arrows,Golden Knight,Hog Rider,Ice Wizard,Lumberjack,Mega Knight,P.E.K.K.A,Vines
+445,Arrows,Fireball,Goblin Gang,Hog Rider,Inferno Dragon,Mega Knight,Minions,Zap
+446,Fireball,Firecracker,Ice Spirit,Mega Knight,Mini P.E.K.K.A,Tesla,The Log,Witch
+447,Arrows,Electro Wizard,Lumberjack,Mini P.E.K.K.A,Musketeer,Prince,Skeleton Army,The Log
+448,Arrows,Electro Wizard,Goblin Barrel,Hog Rider,Mega Knight,Minion Horde,Skeleton Army,Sparky
+449,Goblin Demolisher,Goblin Drill,Ice Spirit,Knight,Poison,Skeletons,Tesla,The Log
+450,Barbarian Barrel,Dart Goblin,Goblin Cage,Mega Knight,Minions,Tombstone,Witch,Zap
+451,Firecracker,Goblin Barrel,Mega Knight,Mini P.E.K.K.A,Prince,Valkyrie,Vines,Witch
+452,Electro Spirit,Firecracker,Goblins,Hog Rider,Lightning,Tesla,The Log,Valkyrie
+453,Archer Queen,Barbarian Barrel,Electro Spirit,Fireball,Fisherman,Royal Ghost,Royal Giant,Skeletons
