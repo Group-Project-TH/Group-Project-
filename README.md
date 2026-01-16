@@ -50,17 +50,12 @@ Statt Bauchgefühl verwenden wir eine **datenbasierte Analyse**:
 ---
 
 ## Benutzte Python Libraries
--pandas 
-
--sklearn
-
--numpy
-
--pathlib
-
--matplot
-
--ast
+- pandas 
+- sklearn
+- numpy
+- pathlib
+- matplot
+- ast
 
 ## Projektmanagemnet
 
