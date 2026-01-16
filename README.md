@@ -17,7 +17,8 @@ und **Casual-Spielern** im Hauptprojekt.
 ---
 
 ## Verarbeitungsschritte
-- Mit Datei ProData_cleaning.py werden die Daten bereinigt und als all_player_clean.csv gespeichert
+- Mit Datei ProData_cleaning.py werden die Daten bereinigt und als all_players_clean.csv gespeichert
+- Durch auslesen der all_players_clean.csv mit werden die einezelnen Decks in extrahiert und in decks.csv gespeichert
 
 ---
 
