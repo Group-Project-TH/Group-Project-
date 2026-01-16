@@ -3,7 +3,6 @@ import time
 import requests
 from pathlib import Path
 
-# ⚠️ Deinen API-Key hier eintragen (NIEMALS ins Internet hochladen!)
 API_KEY = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6IjNkMWIxZTI5LTY3YzMtNDUwMi1hMmMxLTY1MDE0NmYyOTIyYSIsImlhdCI6MTc2NTM3OTM2Niwic3ViIjoiZGV2ZWxvcGVyL2FlNjI2OGI1LWQ0MjgtOWE3OS1iOTdmLTUwZTM3YjAzYjEwZCIsInNjb3BlcyI6WyJyb3lhbGUiXSwibGltaXRzIjpbeyJ0aWVyIjoiZGV2ZWxvcGVyL3NpbHZlciIsInR5cGUiOiJ0aHJvdHRsaW5nIn0seyJjaWRycyI6WyIxOTUuMTQuMjE4LjI1NSJdLCJ0eXBlIjoiY2xpZW50In1dfQ.NdCZrMS2fEsR4bBQG8Ab18owbb0B2CvRlnd0WF1d7rMUf715WwMZCnDzZCK-dlOK3LIBePl2vg397XjKV2k6ug"
 BASE_URL = "https://api.clashroyale.com/v1"
 
@@ -88,4 +87,5 @@ with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
     json.dump(all_player_battles, f, ensure_ascii=False, indent=2)
 
 print(f"✅ Fertig! Battlelogs gespeichert in {OUTPUT_PATH}")
+
 
