@@ -19,7 +19,7 @@ und **Casual-Spielern** im Hauptprojekt.
 ## Verarbeitungsschritte
 - Mit Datei ProData_cleaning.py werden die Daten bereinigt und als all_players_clean.csv gespeichert
 - Durch auslesen der all_players_clean.csv mit werden die einezelnen Decks in extrahiert und in decks.csv gespeichert
-
+- Mit tsne_map.py wurde die tsne Map.png erstellt
 ---
 
 ## Ziel
@@ -30,8 +30,4 @@ der in späteren Branches für:
 - Performance-Vergleiche  
 verwendet wird.
 
----
 
-## Weiterverwendung
-Die hier erzeugten Datensätze werden in den Analyse- und Vergleichs-Branches
-(z. B. Data Analysis, Clustering, ...) genutzt.
