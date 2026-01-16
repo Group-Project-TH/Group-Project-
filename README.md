@@ -13,4 +13,4 @@ Zur Koordination der Zusammenarbeit haben wir ein Google-Dokument erstellt, das 
 ### Scrum - Gliederung 
 1. [Einführung in Scrum](einführungscrum.md)  
 2. [Umsetzung von Scrum](umsetzungscrum.md)  
-3. [Quellen](quellen.md)
+3. [Quellen](Quellen.md)
