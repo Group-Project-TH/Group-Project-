@@ -52,10 +52,10 @@ Statt Bauchgefühl verwenden wir eine **datenbasierte Analyse**:
 ## Projektmanagemnet
 
 ### Rollenverterilung
-Gruppensprecher: @Armiiin98
-Product Owner: @JoK28
-Scrum Master: @h44mi
-Entwicklungsteam: @Moderbro, @888teezy888, @
+Gruppensprecher: [Sajjad Rajabi](https://github.com/Armiiin98)  
+Product Owner: [Joann Kylee Kleinheyer](https://github.com/JoK28)   
+Scrum Master: [Laura Hae Mi Kang](https://github.com/h44mi)   
+Entwicklungsteam:  [Fabian Lersch](https://github.com/Taserfayx), [Moritz Laufer](https://github.com/Moderbro), [Tristan Yi](https://github.com/888teezy888)  
 
 ### Organistaionslinks:
 - [Kanban Board](https://github.com/orgs/Group-Project-TH/projects/1)
