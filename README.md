@@ -8,26 +8,16 @@ und **Casual-Spielern** im Hauptprojekt.
 ---
 
 ## Datenquelle
-- Öffentliche Clash-Royale-APIs
-- Auswahl von 100 Top-Spielern (z. B. aus globalen Ranglisten)
-- Download der vollständigen Battlelogs dieser Spieler
+- Öffentliche Clash-Royale-APIs  über https://developer.clashroyale.com/#/
+- Auswahl von 100 Top-Spielern von https://royaleapi.com/players/leaderboard deren Player Tags in 100top_player_ids.json gespeichert
+- Download der vollständigen Battlelogs dieser Spieler durch einfügen der Player Tags in ABIAbfragenPro.py
+- Die Volständige Datei heißt all_player_battle_besser.json als zip Datei hochgeladen 
 
----
-
-## Inhalt
-- Rohdaten der Battlelogs (JSON / ZIP)
-- Skripte zur API-Abfrage
-- Skripte zur Datenbereinigung (Cleaning)
-- Bereinigte CSV-Dateien für die weitere Analyse
 
 ---
 
 ## Verarbeitungsschritte
-- API-Abfrage der Matches von Top-Spielern
-- Zusammenführen der Battlelogs
-- Entfernen von Duplikaten
-- Filtern relevanter Match-Typen
-- Export der bereinigten Daten in CSV-Formate
+- Mit Datei ProData_cleaning.py werden die Daten bereinigt und als all_player_clean.csv gespeichert
 
 ---
 
