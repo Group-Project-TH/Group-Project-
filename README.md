@@ -24,7 +24,7 @@ und **Casual-Spielern** im Hauptprojekt.
 
 ## Ziel
 Bereitstellung eines **sauberen, konsistenten Datensatzes** von Top-Spielern,
-der in späteren Branches für:
+der in visual Branche für:
 - Karten- und Deck-Analysen
 - Clusterbildung
 - Performance-Vergleiche  
