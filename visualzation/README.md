@@ -19,5 +19,5 @@ cluster_matchup_counters.csv
 newplot.png
 
 decks_clustered.csv + cluster_cores_and_tech_filtered.csv + all_players_clean.csv  
- ↓ clusterperformance2.py → findet die Decks mit der höchsten Winrate und dem höchsten avg_trophy_change  
+                                ↓ clusterperformance2.py → findet die Decks mit der höchsten Winrate und dem höchsten avg_trophy_change  
 cluster_performance_with_cores.csv → dies CSV-Datei hat Moritz visualisiert
