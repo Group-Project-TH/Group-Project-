@@ -37,9 +37,7 @@ decks_clustered.csv + cluster_cores_and_tech_filtered.csv + all_players_clean.cs
 
 cluster_matchup_counters.csv
 
-
             ↓ clustervisualizer.py erstellung einer Heatmap clusterids werden auf x und y achse gemapt
-
 
         newplot.png
 
