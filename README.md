@@ -9,7 +9,7 @@ und **Casual-Spielern** im Hauptprojekt.
 
 ## Datenquelle
 - Öffentliche Clash-Royale-APIs  über https://developer.clashroyale.com/#/
-- Auswahl von 100 Top-Spielern von https://royaleapi.com/players/leaderboard deren Player Tags durch Clashroyal.py gescraped in 100top_player_ids.json gespeichert
+- Auswahl von 100 Top-Spielern von https://royaleapi.com/players/leaderboard deren Player Tags durch clashroyal.py gescraped und in 100top_player_ids.json gespeichert
 - Download der vollständigen Battlelogs dieser Spieler durch einfügen der Player Tags in ABIAbfragenPro.py
 - Die Volständige Datei heißt all_player_battle_besser.json als zip Datei hochgeladen 
 
