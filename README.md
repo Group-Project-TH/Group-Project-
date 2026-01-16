@@ -59,5 +59,5 @@ Entwicklungsteam:  [Fabian Lersch](https://github.com/Taserfayx), [Moritz Laufer
 
 ### Organistaionslinks:
 - [Kanban Board](https://github.com/orgs/Group-Project-TH/projects/1)
-- [Scrum Leitfaden](https://github.com/Group-Project-TH/Group-Project-.git)
+- [Scrum Leitfaden](https://github.com/Group-Project-TH/Group-Project-/tree/ScrumProjektmanagement)
 - ~~Roadmap~~
